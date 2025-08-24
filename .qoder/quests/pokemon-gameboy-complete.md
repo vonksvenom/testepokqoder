@@ -7,7 +7,7 @@
 
 ## Project Information
 
-**Repository**: `git@github.com:vonksvenom/testepokqoder.git`  
+**Repository**: `https://github.com/vonksvenom/testepokqoder.git`  
 **Status**: Design Phase Complete  
 **Technology Stack**: HTML5 Canvas + JavaScript (ES6+)  
 **Target Platform**: Web Browser (Desktop & Mobile)  
